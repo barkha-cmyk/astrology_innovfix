@@ -12,7 +12,7 @@ SIGN_DATES = [
     ("Virgo",      (8, 23),  (9, 22)),
     ("Libra",      (9, 23),  (10, 22)),
     ("Scorpio",    (10, 23), (11, 21)),
-    ("Sagittarius",(11, 22), (12, 21)),
+    ("Sagittarius", (11, 22), (12, 21)),
 ]
 
 def sun_sign(dob: date) -> str:
